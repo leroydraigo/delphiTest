@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.682,C:\Users\Leon\Documents\Embarcadero\Studio\Projects\Start.dfm=C:\Users\Leon\Documents\Embarcadero\Studio\Projects\BDunit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.088,C:\Users\Leon\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Leon\Documents\Embarcadero\Studio\Projects\Find.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.300,C:\Users\Leon\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Leon\Documents\Embarcadero\Studio\Projects\Main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.888,C:\Users\Leon\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\Leon\Documents\Embarcadero\Studio\Projects\Oper.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.922,C:\Users\Leon\Documents\Embarcadero\Studio\Projects\BDunit.pas=C:\Users\Leon\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.266,C:\Users\Leon\Documents\Embarcadero\Studio\Projects\BDunit.pas=C:\Users\Leon\Documents\Embarcadero\Studio\Projects\DBunit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.402,C:\Users\Leon\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Leon\Documents\Embarcadero\Studio\Projects\SpravkiLudi.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.923,C:\Users\Leon\Documents\Embarcadero\Studio\Projects\BDunit.dfm=C:\Users\Leon\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.922,C:\Users\Leon\Documents\Embarcadero\Studio\Projects\BDunit.dfm=C:\Users\Leon\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.266,C:\Users\Leon\Documents\Embarcadero\Studio\Projects\BDunit.dfm=C:\Users\Leon\Documents\Embarcadero\Studio\Projects\DBunit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.682,C:\Users\Leon\Documents\Embarcadero\Studio\Projects\Start.pas=C:\Users\Leon\Documents\Embarcadero\Studio\Projects\BDunit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.208,=C:\Users\Leon\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.804,=C:\Users\Leon\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.150,=C:\Users\Leon\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.923,C:\Users\Leon\Documents\Embarcadero\Studio\Projects\BDunit.pas=C:\Users\Leon\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.111,=C:\Users\Leon\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.162,=C:\Users\Leon\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.971,=C:\Users\Leon\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.678,C:\Users\Leon\Documents\Embarcadero\Studio\Projects\Statist.dfm=C:\Users\Leon\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.088,C:\Users\Leon\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Leon\Documents\Embarcadero\Studio\Projects\Find.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.300,C:\Users\Leon\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Leon\Documents\Embarcadero\Studio\Projects\Main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.921,C:\Users\Leon\Documents\Embarcadero\Studio\Projects\Statist.dfm=C:\Users\Leon\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.921,C:\Users\Leon\Documents\Embarcadero\Studio\Projects\Statist.pas=C:\Users\Leon\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.678,C:\Users\Leon\Documents\Embarcadero\Studio\Projects\Statist.pas=C:\Users\Leon\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.956,C:\Users\Leon\Documents\Embarcadero\Studio\Projects\Statist.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.888,C:\Users\Leon\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\Leon\Documents\Embarcadero\Studio\Projects\Oper.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.809,=C:\Users\Leon\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.129,=C:\Users\Leon\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.138,=C:\Users\Leon\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
